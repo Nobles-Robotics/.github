@@ -1,3 +1,3 @@
 # Nobles Robotics
 
-Hi! We're FTC #20748 based at the Noble and Greenough School in Dedham Massachusetts!
+If you're looking for the profile readme it's profile/readme.md xD
